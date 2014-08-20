@@ -1,0 +1,12 @@
+# use glob syntax.
+syntax: glob
+# vim swap file
+*.swp
+# eclipse stuff
+*.cproject
+*.project
+# python stuff
+*.pyc
+*.pyo
+# osx stuff
+.DS_Store
